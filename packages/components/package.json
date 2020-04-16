@@ -1,0 +1,16 @@
+{
+  "name": "@monorepo/components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^2.8.1",
+    "react": "16.11.0"
+   
+  },
+  "peerDependencies": {
+    "redux-saga": "^1.0.2"
+    
+  }
+}
