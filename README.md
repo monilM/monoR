@@ -7,7 +7,7 @@ Mobile application created by using react-native init
 # PreRequisites
 Node,
 Yarn, 
-Android and ios Configuration setup for Mobile
+Android and ios Configuration setup for Mobile, 
 Web - Not specific requirement
 
 Steps to follow
