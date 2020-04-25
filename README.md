@@ -1,7 +1,7 @@
 # monoRepo
 
 This Repo is created using lerna and yarn workspace. 
-Web application created by using create-react-app
+Web application created by using create-react-app,
 Mobile application created by using react-native init
 
 # PreRequisites
