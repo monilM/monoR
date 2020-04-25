@@ -5,8 +5,8 @@ Web application created by using create-react-app,
 Mobile application created by using react-native init
 
 # PreRequisites
-Node
-Yarn 
+Node,
+Yarn, 
 Android and ios Configuration setup for Mobile
 Web - Not specific requirement
 
